@@ -7,8 +7,6 @@ android {
     defaultConfig {
         minSdkVersion project.ext.minSDK
         targetSdkVersion project.ext.maxSDK
-        versionCode 13
-        versionName "2.1.1"
         //consumerProguardFiles 'consumer-proguard-rules.txt'
     }
 
