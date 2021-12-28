@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/filepicker/filepicker.iml" filepath="$PROJECT_DIR$/filepicker/filepicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/floatingsearchview/floatingsearchview.iml" filepath="$PROJECT_DIR$/floatingsearchview/floatingsearchview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mGBA.iml" filepath="$PROJECT_DIR$/mGBA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgbaoid.iml" filepath="$PROJECT_DIR$/.idea/modules/mgbaoid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mgbaoid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mgbaoid.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/filepicker/mgbaoid.filepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/filepicker/mgbaoid.filepicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatingsearchview/mgbaoid.floatingsearchview.iml" filepath="$PROJECT_DIR$/.idea/modules/floatingsearchview/mgbaoid.floatingsearchview.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/twoway-view/mgbaoid.twoway-view.iml" filepath="$PROJECT_DIR$/.idea/modules/twoway-view/mgbaoid.twoway-view.iml" />
-      <module fileurl="file://$PROJECT_DIR$/twoway-view/twoway-view.iml" filepath="$PROJECT_DIR$/twoway-view/twoway-view.iml" />
     </modules>
   </component>
 </project>

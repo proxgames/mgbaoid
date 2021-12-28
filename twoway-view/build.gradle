@@ -1,19 +1,20 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion project.ext.maxSDK
-    buildToolsVersion project.ext.BuildVersion
+    compileSdkVersion 29
+    buildToolsVersion '32.0.0'
     resourcePrefix 'twowayview_'
 
     defaultConfig {
-        minSdkVersion project.ext.minSDK
-        targetSdkVersion project.ext.maxSDK
+        minSdkVersion 23
+        //noinspection OldTargetApi
+        targetSdkVersion 29
     }
 }
 
 dependencies {
-    implementation "androidx.recyclerview:recyclerview:1.0.0"
-    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-alpha2'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
 }
 
 task createJar(type: Copy) {
