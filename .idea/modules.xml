@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java+kotlin.mgbaoid.iml" filepath="$PROJECT_DIR$/.idea/modules/java+kotlin.mgbaoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/java+kotlin.mgbaoid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/java+kotlin.mgbaoid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filepicker/java+kotlin.mgbaoid.filepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/filepicker/java+kotlin.mgbaoid.filepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floatingsearchview/java+kotlin.mgbaoid.floatingsearchview.iml" filepath="$PROJECT_DIR$/.idea/modules/floatingsearchview/java+kotlin.mgbaoid.floatingsearchview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twoway-view/java+kotlin.mgbaoid.twoway-view.iml" filepath="$PROJECT_DIR$/.idea/modules/twoway-view/java+kotlin.mgbaoid.twoway-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mgbaoid.iml" filepath="$PROJECT_DIR$/.idea/modules/mgbaoid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mgbaoid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mgbaoid.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/filepicker/mgbaoid.filepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/filepicker/mgbaoid.filepicker.iml" />

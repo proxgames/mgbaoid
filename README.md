@@ -1,6 +1,6 @@
-# mGBA
+# GBAoidex
 
-An attempt of a frontend for [mGBA](https://github.com/mgba-emu/mgba) for Android. 
+An attempt at an Android frontend for [mGBA](https://github.com/mgba-emu/mgba) 
 
 # Building
 
